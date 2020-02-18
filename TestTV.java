@@ -86,7 +86,7 @@
 		System.out.println("TV1's channel changed to " + tv[0].getChannel() + " and volume changed to " + tv[0].getVolume() + "%");
 		System.out.println("TV2's channel changed to " + tv[1].getChannel() + " and volume changed to " + tv[1].getVolume() + "%");
 		System.out.println("TV3's channel changed to " + tv[2].getChannel() + " and volume changed to " + tv[2].getVolume() + "%");
-		System.out.println("TV4's channel changed to " + tv[3].getChannel() + " and volume changed to " + tv[3].getVolume() + "%" + " This remains the same for TASK 2.3");
+		System.out.println("TV4's channel changed to " + tv[3].getChannel() + " and volume changed to " + tv[3].getVolume() + "%");
 		System.out.println("TV5's channel changed to " + tv[4].getChannel() + " and volume changed to " + tv[4].getVolume() + "%");
 		
 		
@@ -117,7 +117,7 @@
 		System.out.println("TV1's channel changed to " + tv[0].getChannel() + " and volume changed to " + tv[0].getVolume() + "%");
 		System.out.println("TV2's channel changed to " + tv[1].getChannel() + " and volume changed to " + tv[1].getVolume() + "%");
 		System.out.println("TV3's channel changed to " + tv[2].getChannel() + " and volume changed to " + tv[2].getVolume() + "%");
-		System.out.println("TV4's channel changed to " + tv[3].getChannel() + " and volume changed to " + tv[3].getVolume() + "%" + " This remains the same for TASK 2.3");
+		System.out.println("TV4's channel changed to " + tv[3].getChannel() + " and volume changed to " + tv[3].getVolume() + "%");
 		System.out.println("TV5's channel changed to " + tv[4].getChannel() + " and volume changed to " + tv[4].getVolume() + "%");
 		
 		
